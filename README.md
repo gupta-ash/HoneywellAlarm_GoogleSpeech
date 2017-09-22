@@ -17,3 +17,6 @@ Installation and Configuration
    a. API key for your Google Speech API account
    b. Replace the From: and To: email address to appropriate email addresses
 4. Call HWAlarmControl.sh with argument -STATUS and watch Asterisk dial out to your Alarm System, get the status, send the status to Google Speech API, look up the transcribed text and email the status to you.
+
+
+NOTE: I use Honeywell Alarm System (Lynx Touch Panel), however, the script could be used for any system that allows a user to dial-in to the system and control the system remotely.
