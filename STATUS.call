@@ -1,0 +1,8 @@
+Channel: PJSIP/6506771234
+CallerID: HWAlarmCalledID <1234567890>
+MaxRetries: 3
+RetryTime: 120
+WaitTime: 30
+Context: HWAlarmStatus
+Extension: s
+Priority: 1
